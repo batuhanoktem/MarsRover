@@ -1,4 +1,5 @@
 # Mars Rover
+[![Travis Build Status](https://travis-ci.org/batuhanoktem/MarsRover.svg?branch=master)](https://travis-ci.org/batuhanoktem/MarsRover)
 
 ## Donate
   - Bitcoin: 1FHFU14DRWWHaJyq8fK1coKR57KqQJg2ZH
